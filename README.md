@@ -15,6 +15,16 @@
 
 ---
 
+## 📈 GitHub статистика
+
+| Показатель | Данные |
+| :--- | :--- |
+| 📊 **Активность** | ![tvbondar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tvbondar&show_icons=true&theme=radical&hide=contribs) |
+| 🔥 **Серия коммитов** | ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=tvbondar&theme=radical) |
+| 🧠 **Основные языки** | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tvbondar&layout=compact&theme=radical) |
+
+---
+
 ## 🧠 Мои проекты
 
 ### 🔹 Детектор мошеннических транзакций (2025)
@@ -78,6 +88,18 @@
 - 🇬🇧 Английский — C1 (свободно)  
 - 🇩🇪 Немецкий — A1–A2  
 - 🇫🇷 Французский — A1
+
+---
+
+## 🏆 Достижения
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tvbondar&theme=radical&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 👀 Счётчик просмотров профиля
+
+![](https://komarev.com/ghpvc/?username=tvbondar&color=blue&style=flat)
 
 ---
 
